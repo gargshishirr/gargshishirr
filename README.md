@@ -1,5 +1,5 @@
 # Hi 👋, I'm Shishir Garg!
-### A final-year Computer Engineering student at DTU.
+###                                   A final-year Computer Engineering student at DTU.
 
 - 🔭 I’m currently working on frontend development and DevOps.
 - 🌱 I’m learning WebD, DSA
