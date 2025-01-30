@@ -69,6 +69,7 @@
 </div>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargshishirr&show_icons=true&locale=en&layout=compact" alt="gargshishirr" /></p>
 
 ### 🌐 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=gargshishirr&label=Profile%20Views&color=0e75b6&style=flat)
