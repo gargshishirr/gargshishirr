@@ -69,6 +69,14 @@
 </div>
 
 ---
+### Leetcode:
+<div>
+  <a href="https://github.com/gargshishirr/">
+  <img src="https://leetcard.jacoblin.cool/hawkeye101?theme=dark"/>
+</a>
+</div>
+
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargshishirr&show_icons=true&locale=en&layout=compact" alt="gargshishirr" /></p>
 
 ### 🌐 Visitor Count:
